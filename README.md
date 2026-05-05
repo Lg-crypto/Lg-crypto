@@ -13,7 +13,7 @@
 
 <hr>
 <h3>Skills</h3>
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D" />
