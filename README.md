@@ -40,3 +40,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfray/gabrielfray/output/github-contribution-grid-snake-dark.svg">
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:003CBB,100&height=120&section=footer"/>
