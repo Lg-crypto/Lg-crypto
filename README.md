@@ -2,16 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003CBB&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Halejandro+Oliveira;I'm+17+years+old;I'm+from+Brazil;I+Want+to+be+a+Programmer.)](https://git.io/typing-svg)
 
-<p align="center">
-    <i>
-        "Um homem não se banha duas vezes no mesmo rio"
-    </i>
-    <i>
-        - Heráclito de Éfeso
-    </i>
-</p>
 
-<hr>
 <h3>Skills</h3>
 <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D" />
@@ -30,6 +21,16 @@
 
 <hr>
 
+<p align="center">
+    <i>
+        "Um homem não se banha duas vezes no mesmo rio"
+    </i>
+    <i>
+        - Heráclito de Éfeso
+    </i>
+</p>
+
+<hr>
 ### Talk to me
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1222660944883220561)
