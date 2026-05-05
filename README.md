@@ -31,7 +31,8 @@
 </p>
 
 <hr>
-### Talk to me
+
+<h3>Talk to me</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1222660944883220561)
 <hr>
