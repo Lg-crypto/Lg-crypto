@@ -22,6 +22,10 @@
     <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/SQ_Lite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=1D1D1D" />
 </div>
 
 <hr>
