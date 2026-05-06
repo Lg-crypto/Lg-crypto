@@ -36,9 +36,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1222660944883220561)
 <hr>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lg-crypto/Lg-crypto/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:003CBB,100&height=120&section=footer"/>
