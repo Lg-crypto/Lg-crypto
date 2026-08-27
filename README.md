@@ -1,77 +1,250 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:003CBB,100&height=150&section=header&text=Halejandro%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- ======================= HEADER ======================= -->
 
-<h3 align="center">Estudante de Desenvolvimento Back-end | Brasil 🇧🇷</h3>
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=003CBB&height=120&section=header" 
+/>
+
+<h1 align="center">Hi, I'm Halejandro Oliveira 👋</h1>
 
 <p align="center">
-  Aprendendo e construindo com <b>Node.js</b>, <b>TypeScript</b> e <b>Python</b>.
-  <br/>
-  Buscando minha primeira oportunidade como Desenvolvedor Back-end / Estagiário.
+  <strong>Back-end Developer in training</strong>
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/1222660944883220561"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  Building APIs and applications with Node.js, TypeScript and relational databases.
 </p>
 
-<hr/>
 
-## 🚀 Projetos em destaque
+<!-- ======================= ABOUT ======================= -->
 
-> Substitua os exemplos abaixo pelos seus repositórios reais. Idealmente use os *pinned repos* do GitHub também (Settings → Customize your pins).
+## 👨‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="LINK_DO_PROJETO_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_1&theme=default" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="LINK_DO_PROJETO_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_2&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
+I'm a Software Development student from Brazil focused on **Back-end development**.
 
-<p align="center"><i>Dica: cada card puxa automaticamente descrição, linguagem e estrelas do repositório.</i></p>
+Currently, I'm building projects to improve my practical experience with **APIs, authentication, databases and server-side applications**.
 
-<hr/>
+- 🎯 Focused on becoming a Back-end Developer
+- ⚙️ Building projects with Node.js and TypeScript
+- 🗄️ Interested in databases and API development
+- 🚀 Looking for my first opportunity as a Developer
 
-## 🛠️ Stack principal
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/SQ_Lite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=1D1D1D" />
-</div>
+<!-- ======================= TECHNOLOGIES ======================= -->
 
-### Front-end (complementar)
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
-</div>
+## 🛠️ Technologies
 
-<hr/>
+### Back-end
 
-## 📊 Estatísticas do GitHub
+<p>
+  <img 
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1D1D1D" 
+    alt="Node.js"
+  />
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true" />
-</div>
+  <img 
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1D1D1D" 
+    alt="JavaScript"
+  />
 
-<hr/>
+  <img 
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1D1D1D" 
+    alt="TypeScript"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1D1D1D" 
+    alt="Prisma ORM"
+  />
+</p>
+
+
+### Databases
+
+<p>
+  <img 
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1D1D1D" 
+    alt="MySQL"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1D1D1D" 
+    alt="SQLite"
+  />
+</p>
+
+
+### Front-end
+
+<p>
+  <img 
+    src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1D1D1D" 
+    alt="React"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1D1D1D" 
+    alt="Next.js"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1D1D1D" 
+    alt="Tailwind CSS"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1D1D1D" 
+    alt="HTML5"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1D1D1D" 
+    alt="CSS3"
+  />
+</p>
+
+
+### Other Technologies
+
+<p>
+  <img 
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1D1D1D" 
+    alt="Python"
+  />
+
+  <img 
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1D1D1D" 
+    alt="Git"
+  />
+</p>
+
+
+<!-- ======================= PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+### 🔐 Authentication API
+
+REST API developed to explore authentication and user management.
+
+**Features:**
+
+- User registration
+- User authentication
+- JWT authentication
+- Password encryption
+- CRUD operations
+- Database integration
+
+**Technologies:**
+
+`Node.js` • `TypeScript` • `Prisma ORM` • `MySQL`
+
+🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+
+
+<br>
+
+
+### 📦 CRUD Application
+
+Application focused on learning how to build and organize a complete CRUD system.
+
+**Features:**
+
+- Create records
+- Read data
+- Update records
+- Delete records
+- Database integration
+
+**Technologies:**
+
+`Node.js` • `TypeScript` • `Prisma ORM` • `MySQL`
+
+🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+## 📚 Currently Learning
+
+Currently improving my knowledge in:
+
+- Back-end architecture
+- REST APIs
+- Database design
+- Authentication and authorization
+- Software engineering principles
+
+
+<!-- ======================= GITHUB ======================= -->
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lg-crypto/Lg-crypto/output/snake.svg" alt="Snake animation" width="100%" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=50:003CBB,100&height=120&section=footer"/>
+
+<!-- ======================= CONTACT ======================= -->
+
+## 📫 Contact
+
+<p>
+
+  <!-- Replace with your LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!-- Replace with your email -->
+  <a href="mailto:YOUR_EMAIL">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://discord.com/users/1222660944883220561">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
+  </a>
+
+</p>
+
+
+<!-- ======================= PERSONAL ======================= -->
+
+<p align="center">
+  <i>
+    "No man ever steps in the same river twice."
+  </i>
+  <br>
+  — Heraclitus
+</p>
+
+
+<!-- ======================= CONTRIBUTIONS ======================= -->
+
+<img 
+  src="https://raw.githubusercontent.com/Lg-crypto/Lg-crypto/output/snake.svg" 
+  alt="Snake animation"
+/>
+
+
+<!-- ======================= FOOTER ======================= -->
+
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=003CBB&height=120&section=footer" 
+/>
